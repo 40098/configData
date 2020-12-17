@@ -12,7 +12,7 @@ public class Commands implements CommandExecutor {
 	public Commands(Main plugin) {
 		main = plugin;
 	}
-	
+	//test
 
 	@Override
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String args[]) {
