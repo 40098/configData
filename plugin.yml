@@ -1,0 +1,8 @@
+name: configData
+version: 1.0
+description: configData plugin
+main: me.jejack.configData.Main
+
+commands:
+  hallo:
+    description: doe /Hallo voor meer informatie
